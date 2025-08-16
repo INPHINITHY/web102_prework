@@ -21,7 +21,7 @@ The following **optional** features are implemented:
 Add a comparison card that lets users view two games side-by-side
 Here's a walkthrough of implemented features:
 
-<img src='[https://imgur.com/a/jRryXnF](https://i.imgur.com/3FsZsuU.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/3FsZsuU.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
